@@ -43,10 +43,10 @@ DELETE /api/products/:id → ลบสินค้า
 ├── package-lock.json
 ├── products.sql         # ฐานข้อมูล (export)
 └── README.md 
-   ```bash
+   ```
 ---
 ## 📷 ตัวอย่างการใช้งาน API
-   ```bash
+
 ### GET สินค้าทั้งหมด
 ![GET Products](images/All%20Products.png)
 
@@ -61,4 +61,4 @@ DELETE /api/products/:id → ลบสินค้า
 
 ### DELETE ลบสินค้า
 ![DELETE Product](images/Delete%20product.png)
-   ```
+
